@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5629","Test Do Login","chromium","2026-10-14","passed","2026-10-14","","LoginPage.spec.ts","",""
+"","7250","Home page Logout Link","chromium","2026-10-14","passed","2026-10-14","","HomePage.spec.ts","",""
+"","1818","Forgot Password Link Exist","chromium","2026-10-14","passed","2026-10-14","","LoginPage.spec.ts","",""
+"","7204","Home page title test","chromium","2026-10-14","passed","2026-10-14","","HomePage.spec.ts","",""
+"","9450","Home page headers","chromium","2026-10-14","passed","2026-10-14","","HomePage.spec.ts","",""
+"","3513","Login Page Tite Test","chromium","2026-10-14","passed","2026-10-14","","LoginPage.spec.ts","",""
