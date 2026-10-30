@@ -10,7 +10,7 @@ test.beforeEach(async ({loginPage})=>{
     //homepage=new HomePage(page)
 })
 
-test('Login Page Tite Test',async ({loginPage}) => {
+test('Login Page Tite Test @sanity',async ({loginPage}) => {
     
     let title=await loginPage.LoginPageTitle();
     expect(title).toBe('Account Login');

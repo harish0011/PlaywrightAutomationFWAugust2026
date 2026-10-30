@@ -24,7 +24,7 @@ test("Verify count Headers", async ({homePage,searchResultPage})=>
     expect(productCount).toBeGreaterThan(0);
 })
 
-test("Verify click functionality", async ({homePage,searchResultPage,page})=>
+test("Verify click functionality @sanity", async ({homePage,searchResultPage,page})=>
 {
     await homePage.doSearch('macbook');
     await searchResultPage.selectAndClickOnProduct('MacBook Air');

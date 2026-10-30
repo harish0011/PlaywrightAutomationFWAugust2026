@@ -36,7 +36,7 @@ test("Verify Product Info Test", async ({homePage,searchResultPage,productInfoPa
 })
 
 //common Functionility test
-test("Verify common Logo Test", async ({productInfoPage})=>
+test("Verify common Logo Test @sanity", async ({productInfoPage})=>
 {
     let isVisible:boolean=await productInfoPage.isLogoVisible();
     expect(isVisible).toBe(true);
