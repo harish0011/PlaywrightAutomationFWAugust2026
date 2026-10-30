@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5108","Verify common Logo Test @sanity","chromium","2026-10-30","passed","2026-10-30","","ProductInfo.spec.ts","",""
