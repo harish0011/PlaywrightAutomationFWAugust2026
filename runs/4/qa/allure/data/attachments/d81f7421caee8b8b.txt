@@ -1,0 +1,107 @@
+APIResponse: 200 OK
+  Date: Fri, 30 Oct 2026 14:40:29 GMT
+  Content-Type: application/json; charset=utf-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  Cache-Control: max-age=0, private, must-revalidate
+  content-security-policy-report-only: default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-SbS1tP5XGrqswkdDZB4ISQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  etag: W/"45b426337c7475454e2a61fdb10581c1"
+  feature-policy: camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'
+  referrer-policy: strict-origin-when-cross-origin
+  strict-transport-security: max-age=63072000; includeSubDomains
+  vary: Origin
+  x-content-type-options: nosniff
+  x-frame-options: SAMEORIGIN
+  x-links-current: https://gorest.co.in/public/v2/users?page=1
+  x-links-next: https://gorest.co.in/public/v2/users?page=2
+  x-links-previous: 
+  x-pagination-limit: 10
+  x-pagination-page: 1
+  x-pagination-pages: 298
+  x-pagination-total: 2979
+  x-permitted-cross-domain-policies: none
+  x-ratelimit-limit: 300
+  x-ratelimit-remaining: 299
+  x-ratelimit-reset: 0
+  x-xss-protection: 0
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3esU3K4mSvUkD0M4YInS12Vj0U%2B1Rw%2FRTRII1nTuac%2BNAwDEXNiiqR9THw%2FxerI2oapIvOnmneUkrJd1qyTOecEY6d22cUlv3ezi3%2BtDDfQ39QlhqYrs6hz6pEkdUmw%3D"}]}
+  Content-Encoding: br
+  Server: cloudflare
+  CF-RAY: a52b2ce18bf84a77-STL
+  alt-svc: h3=":443"; ma=86400
+response body is [
+  {
+    id: 8690763,
+    name: 'Chandraprabha Devar',
+    email: 'chandraprabha_devar@johns-torp.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8690761,
+    name: 'Leela Sethi',
+    email: 'leela_sethi@stoltenberg-klein.example',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8690760,
+    name: 'Javas Prajapat Jr.',
+    email: 'prajapat_javas_jr@hintz.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8690759,
+    name: 'Rajendra Khan',
+    email: 'rajendra_khan@predovic.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8690758,
+    name: 'Bhooshit Bharadwaj',
+    email: 'bhooshit_bharadwaj@stanton.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8690757,
+    name: 'Nirbhay Sethi',
+    email: 'sethi_nirbhay@lebsack-erdman.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8690755,
+    name: 'Gati Khatri',
+    email: 'khatri_gati@labadie.example',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8690754,
+    name: 'Ranjit Sinha',
+    email: 'sinha_ranjit@rippin-dicki.example',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8690753,
+    name: 'Deeptimoy Agarwal I',
+    email: 'agarwal_deeptimoy_i@wiegand.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8690752,
+    name: 'Dr. Dinakar Nambeesan',
+    email: 'nambeesan_dr_dinakar@erdman-kuhic.example',
+    gender: 'male',
+    status: 'inactive'
+  }
+]
+satus code  is 200
+response message is OK
