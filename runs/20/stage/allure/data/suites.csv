@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1080","Login Page Tite Test @sanity","chromium","2026-10-30","passed","2026-10-30","","LoginPage.spec.ts","",""
+"","5142","Verify common Logo Test @sanity","chromium","2026-10-30","passed","2026-10-30","","ProductInfo.spec.ts","",""
+"","5169","Test Do Login @sanity","chromium","2026-10-30","failed","2026-10-30","","LoginPage.spec.ts","",""
