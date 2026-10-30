@@ -24,7 +24,7 @@ test('Forgot Password Link Exist',async ({loginPage}) => {
     
 })
 
-test('Test Do Login',async ({loginPage,homePage}) => {
+test('Test Do Login @sanity',async ({loginPage,homePage}) => {
     
    
     await loginPage.DoLogin(process.env.USER_NAME!,process.env.PASSWORD!);
