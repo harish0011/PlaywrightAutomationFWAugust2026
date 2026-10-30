@@ -410,7 +410,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    environment: stage
+    environment: dev
 
     timeout-minutes: 30
 
