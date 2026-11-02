@@ -1,0 +1,29 @@
+APIResponse: 422 Unprocessable Entity
+  Date: Mon, 02 Nov 2026 07:15:26 GMT
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 54
+  Connection: keep-alive
+  Cache-Control: no-cache
+  content-security-policy-report-only: default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-dlOFUIH3E8p6fP7xzRo3LQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  deprecation: @1793491200
+  feature-policy: camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'
+  link: <https://www.gorest.co.in/docs/v2>; rel="deprecation"; type="text/html"
+  referrer-policy: strict-origin-when-cross-origin
+  strict-transport-security: max-age=63072000; includeSubDomains
+  vary: Origin
+  x-content-type-options: nosniff
+  x-frame-options: SAMEORIGIN
+  x-permitted-cross-domain-policies: none
+  x-ratelimit-limit: 300
+  x-ratelimit-remaining: 299
+  x-ratelimit-reset: 0
+  x-xss-protection: 0
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=g%2Bcqhb3JGVfjAxZw06emuxutXF5M56K0Dtvw5qqcmPf7gqx5kp3%2BJVniMcDemWJB46k7V%2FPJ7aO6ex3w41tRNA8d2ypWUSkRvPjzA2KBD6hra4Kyxpz4FfyeYRQ1MjI%3D"}]}
+  Server: cloudflare
+  CF-RAY: a541591839d3acdb-MSP
+  alt-svc: h3=":443"; ma=86400
+response body is [ { field: 'email', message: 'has already been taken' } ]
+satus code  is 422
+response message is Unprocessable Entity
