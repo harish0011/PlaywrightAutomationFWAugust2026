@@ -10,7 +10,7 @@ test.beforeEach(async ({loginPage})=>{
 
 })
 
-test("Home page title test @sanity",async ({homePage})=>
+test("Home page title test @smoke",async ({homePage})=>
 {
     let homeTitle:string=await homePage.getHomePageTitle()
     expect(homeTitle).toBe('My Account');
