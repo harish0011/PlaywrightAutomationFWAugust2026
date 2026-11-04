@@ -147,7 +147,7 @@ jobs:
       - name: Checkout QA Automation Repository
         uses: actions/checkout@v4
         with:
-          repository: hariprasadautomationtrainings/playwrightautomationaugust2026
+          repository: harish0011/PlaywrightAutomationFWAugust2026
       - name: Pull Docker Image
         run: |
           
