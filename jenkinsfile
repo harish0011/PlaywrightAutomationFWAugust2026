@@ -60,7 +60,7 @@ pipeline {
 
         NODEJS_HOME = tool 'NodeJs'
         
-        JAVA_HOME  = tool 'jdk17'
+        JAVA_HOME  = tool 'jdk21'
 
     }
 
