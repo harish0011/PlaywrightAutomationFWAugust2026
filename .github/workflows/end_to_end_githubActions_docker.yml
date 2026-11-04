@@ -244,7 +244,7 @@ jobs:
           echo "Pulling Docker Image From Docker Hub"
           echo "=============================================="
 
-          docker pull hariprasadautomationtrainings:latest
+          docker pull hariprasadautomationtrainings/playwrightautomationaugust2026:latest
       - name: Verify Docker Image
         run: docker images
       - name: Execute STAGE Sanity Suite
